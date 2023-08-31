@@ -4,15 +4,15 @@
   year: 2019 &mdash; 2023
   awards:
     - award: 3.17 CGPA
-  
 
 - degree: Intermediate
   uni: PGC
   year: 2019
-  award: 72%
+  award:
+    - award: 72%
 
-  degree: Intermediate
-  uni: PGC
-  year: 2019
-  award: 72%
-  
+- degree: Matric
+  uni: Lahore Grammar School
+  year: 2017
+  award:
+    - award: 89%
