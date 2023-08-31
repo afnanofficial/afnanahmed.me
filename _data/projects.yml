@@ -5,10 +5,46 @@
 - project: FCCU Carpool Service (Final Year Project)
   role: Group Lead and Programmer
   # url: "#"
-  description: It is a Web Application for connecting students to carpool to University with scheduling and connecting driver and rider, which is built using React.js, Django with SQLite and Google Maps API.
+  description: It is a Web Application for connecting students, featuring access to schedule and book a ride, which is built using React.js, Django with SQLite and Google Maps API.
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: P2P Chat Application using TCP, Python
+  role: Programmer
+  
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed a messaging application using Python, network sockets,
+and implementing the TCP protocol.
+# Springfield Community Outreach Group
+- project: Hospital Management System
+  role: Programmer
+  
+  # url: "#"
+  description: Using Python and OOP principles to efficiently manage patient
+records, appointments, staff, resources, and billing.
+# Springfield Community Outreach Group
+- project: Todo List Reactjs Web App
+  role: Web Development
+  
+  # url: "#"
+  description: Developed a task management application utilizing ReactJS.
+  # Springfield Community Outreach Group
+- project: Mental Health Counselling Assistance
+  role: AI Chatbot Development
+  
+  # url: "#"
+  description: Utilized the ChatGPT API and hosted via Gradio and HuggingFace.
+  # Springfield Community Outreach Group
+- project: P2P Chat Application using TCP, Python
+  role: Python Networking
+  
+  # url: "#"
+  description: Developed a messaging application using Python, network sockets,
+and implementing the TCP protocol.
+# Springfield Community Outreach Group
+- project: Wordpress CMS
+  role: Freelancing
+  
+  # url: "#"
+  description: Effectively delivered international clients with fully operational
+websites utilizing the WordPress platform.
+
+
