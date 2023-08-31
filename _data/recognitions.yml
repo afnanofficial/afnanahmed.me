@@ -1,10 +1,16 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Completed Intro to React, v8 by Brian Holt
+  organization: FrontEnd Masters
+  year: 2022
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Solving Problems with Creative and Critical Thinking (IBM)
+  organization: IBM
+  year: 2023
+
+- award: Build a website using React
+  organization: Coursera
+  year: 2023
+
+- award: Certificate of Participation in ‘Basics of JavaScript Programming’ Training (Open Weaver)
+  organization: OpenWeaver
+  year: 2023
